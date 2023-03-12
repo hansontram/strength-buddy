@@ -1,7 +1,8 @@
 
 # Strength Buddy
 Strength Buddy is a fullstack web application that allows users to log their personal records in the gym in real time. Users are able to add an exercise along with info such as load and reps.
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+
+**Link to project:** coming soon
 
 ![strength](https://user-images.githubusercontent.com/97640502/224571734-f7c2aca4-e525-4a35-b874-f8366adebb59.gif)
 
@@ -24,9 +25,9 @@ The lessons learned in this project were invaluable. I was able to cement the fu
 ## Examples:
 Take a look at my other work:
 
-**Iron Gym:** https://github.com/hansontram/iron-maps
+[Iron Gym](https://github.com/hansontram/iron-maps) - A gym locator that allows strength athletes to find specialized training facilities.
 
-**SupaCook Recipes:** https://github.com/hansontram/supacook-recipes
+[SupaCook](https://github.com/hansontram/supacook-recipes) - A recipe app allowing users to log an ingredient and generates multiple recipe ideas including the specified item. 
 
 [SCCS: NASA's Astronomy Picture of the Day](https://github.com/hansontram/cosmo-nasa-react) - Select a date and display a picture or video loaded from NASA's very own API.
 
