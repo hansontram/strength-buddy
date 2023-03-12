@@ -24,9 +24,9 @@ The lessons learned in this project were invaluable. I was able to cement the fu
 ## Examples:
 Take a look at my other work:
 
-**Palettable:** https://github.com/alecortega/palettable
+**Iron Gym:** https://github.com/hansontram/iron-maps
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+**SupaCook Recipes:** https://github.com/hansontram/supacook-recipes
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
+[SCCS: NASA's Astronomy Picture of the Day](https://github.com/hansontram/cosmo-nasa-react) - Select a date and display a picture or video loaded from NASA's very own API.
 
